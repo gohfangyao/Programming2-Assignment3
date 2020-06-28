@@ -97,7 +97,7 @@ System.out.println("search try catch error"+ e1);
         int i= Integer.parseInt(Text.getText());
        
         l4.setText("The book is: "+ bklist.get(i));
-        l5.setText("edit action");
+        l5.setText("");
 	   }
 	   
 
