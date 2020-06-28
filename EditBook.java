@@ -78,7 +78,7 @@ public class EditBook extends JFrame implements ActionListener{
     	l5=new JLabel("New Title:");  
     	l5.setFont(new Font("Arial", Font.PLAIN, 19)); 
         l5.setBounds(100,415,500,20); 
-        l6=new JLabel("fsdf");  
+        l6=new JLabel("");  
     	l6.setFont(new Font("Arial", Font.PLAIN, 19)); 
         l6.setBounds(100,620,500,20); 
         JPanel panel1 = new JPanel();
